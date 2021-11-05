@@ -1,0 +1,21 @@
+.title {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.container-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.selected-color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
